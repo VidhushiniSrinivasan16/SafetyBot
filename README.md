@@ -1,19 +1,15 @@
 
-# Access bot
+# Safety bot
 
 ## Inspiration
-No one can deny that there is plenty of information for general public to plan their day and visit restaurants, museums and go to work , however accessibility information for people living with disabilities is still extremely limited.  Websites like Yelp and similar reduce the concept of "accessibility" to a binary selection (Wheelchair accessible or not).  Unfortunately this doesn't help the majority of people stranded at home with different disabilities. For example, visually or hearing impaired does not get any help from the current categories.  Many people are left having to call or email and that can be discouraging and a way to block them from integrating into society. We believe that technology, in this case AI applied to an assistant,  have the potential to make life better for a lot of people.
+The Safety Bot is designed to serve the public and improve road safety. It caters to users' needs by  addressing certain administrative concerns such as open drains, potholes, street lighting, traffic light malfunction etc by registering complain with corporation. This way we can reduce manual intervention and serve the public efficiently. We believe that technology, in this case AI applied to an assistant,  have the potential to make life better and safer for a lot of people.
 
 ## What it does
-Accessibility-Check bot have 2 main functions, the first one is to organize a coordinated crowdsourcing effort to map restaurant, store , offices, etc.  It basically shoot  a quick set of questions like "Do you see a ramp?", "Can you ask for a Braile menu?" , "Is the bathroom in the first floor?", etc.  All these questions are based on American’s with Disability Act (ADA) and Open travel alliance (OTA).  
+The Safety Bot 2 main functions, the first one is to capture users needs to understand the main concern and get the appropriate location related to the concern.  Example of one such concern from the user: "The traffic lights are not working in Velachery Main Road".  Here, the bot understands that the concern is about the traffic light and gets the location "Velachery Main Road". The bot is trained with specific set of questions and we can add more in future to cater to different needs.  
 
-The second functionality of this bot is to inform the general public about the accessibility based on their location. A mechanism will be included to catch unanswered queries, save them in a database and add them to the crowdsource queue.
+The second functionality of this bot is to inform the corporation based on their location. A mechanism will be included to catch unanswered queries, save them in a database and add them to the crowdsource queue.
 
 
-
-![Add Info](https://user-images.githubusercontent.com/6516814/83883190-fffb1780-a6f7-11ea-90b2-bc61d96f7632.jpg)
-
-![Get Info](https://user-images.githubusercontent.com/6516814/83882961-b3afd780-a6f7-11ea-8118-26e85b6424b0.jpg)
 
 # Installation
 
