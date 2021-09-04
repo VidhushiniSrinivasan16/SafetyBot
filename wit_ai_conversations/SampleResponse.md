@@ -1,18 +1,15 @@
 # Sample Response
 
-APP: `https://wit.ai/v2/apps/270129564344507/`
+APP: `https://wit.ai/apps/1188943538251799/`
 
 _Input:_
 
-Is theme-park accessible for visually impaired?
+There is improper street lighting in my street
 
 _Response:_
 ```json
-{"text":"Is theme-park accessible for visually impaired?","intents":[\{"id":"622263308645974","name":"request_accessibility_info","confidence":1\}],"entities":\{"wit_disability:wit_disability":[\{"id":"705172783635479","name":"wit_disability","role":"wit_disability","start":29,"end":47,"body":"visually impaired?","confidence":0.9031,"entities":[],"suggested":true,"value":"visually impaired?","type":"value"\}],"wit$location:location":[\{"id":"257567208661149","name":"wit$location","role":"location","start":3,"end":13,"body":"theme-park","confidence":0.705,"entities":[],"suggested":true,"value":"theme-park","type":"value"\}]\},"traits":\{\}\}}
+{"text":"There is improper street lighting in my street","intents":[{"id":"290515959082259","name":"complaintOn","confidence":1}],"entities":{"wit$location:location":[{"id":"569902864150260","name":"wit$location","role":"location","start":37,"end":46,"body":"my street","confidence":0.9335,"entities":[],"suggested":true,"value":"my street","type":"value"}],"ComplaintOn:ComplaintOn":[{"id":"567667434382088","name":"ComplaintOn","role":"ComplaintOn","start":18,"end":33,"body":"street lighting","confidence":0.968,"entities":[],"value":"street lighting","type":"value"}]},"traits":{}}%  
 ```
 
 ##### Conversation 1
 ![Test Image 3](Conversation_1.png)
-
-##### Conversation 2
-![Test Image 3](Conversation_2.png)
