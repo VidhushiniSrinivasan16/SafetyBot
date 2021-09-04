@@ -108,9 +108,6 @@ Go to the link provided by the Terminal, _it looks similar to this:_
 
   Send a message to your Page from Facebook or in Messenger, if your webhook receives an event, you have fully set up your app! Voilà!
 
-⚠️ If you see the Bot, but you cannot communicate with it, most probably you haven't been added as contributor (this bot is not public yet),
-Please send a mail via Slack or mail: gcid12@gmail.com
-
 
 
 
