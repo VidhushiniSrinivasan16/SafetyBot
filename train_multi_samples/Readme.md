@@ -2,7 +2,7 @@ Reference: https://github.com/wit-ai/wit-api-only-tutorial
 
 Update data.tsv file with the samples in the format "text (col 1) , intent (col2)"
 
-`I want to know if the restaurant is accessible by wheelchair     request_accessiblity_info`
+`There are no street lights in 16th street, near new jain temple, sowcarpet, chennai     ComplaintOn,wit/location`
 
 # Instructions to run the multi_train.js script
 
