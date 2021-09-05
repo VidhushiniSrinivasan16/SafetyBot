@@ -4,7 +4,7 @@
 ## Inspiration
 The Safety Bot is designed to serve the public and improve road safety. It caters to users' needs by  addressing certain administrative concerns such as open drains, potholes, street lighting, traffic light malfunction etc by registering complain with corporation. This way we can reduce manual intervention and serve the public efficiently. I believe that technology, in this case AI applied to an assistant,  has the potential to make life better and safer for a lot of people.
 
-## What it does
+## What it does?
 The Safety Bot has 2 main functions, the first one is to capture users needs to understand the main concern and get the appropriate location related to the concern.  Example of one such concern from the user: "The traffic lights are not working in Velachery Main Road".  Here, the bot understands that the concern is about the traffic light and gets the location "Velachery Main Road". The bot is trained with specific set of questions and we can add more in future to cater to different needs.  
 
 The second functionality of this bot is to inform the corporation regarding the issue along with the location details. A mechanism will be included to catch unanswered queries, save them in a database and add them to the crowdsource queue.
